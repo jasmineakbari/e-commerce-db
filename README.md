@@ -27,7 +27,7 @@ Link to to a wakthrough video showing the application in practice. [Video]https:
 ## Credits
 
 Starter code provided by: 
-* [GitHub](https://github.com/Xandromus)Xandromus
+* [GitHub](https://github.com/Xandromus)/Xandromus
 
 ## License
 
