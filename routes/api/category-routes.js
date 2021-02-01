@@ -19,7 +19,7 @@ router.get('/', (req, res) => {
         res.status(400).json({ message: 'Unable to locate Categories' });
         return;
       }
-      res.json(dbCategoryData)''
+      res.json(dbCategoryData);
     })
     .catch(err => {
       console.log(err);
